@@ -4,4 +4,4 @@ He d'escriure un esborrany de l'idea inicial del projecte que consti d'uns tres 
 
   * El context del projecte: si es per una empresa
   * MArkdown
-  Sintaxi mol facil
+  * Sintaxi molt facil
