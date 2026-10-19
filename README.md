@@ -14,4 +14,4 @@ Llista de projectes d'SMX2C del curs 2026-2027.
 ### Ro-Chess
 
 
-### ????
+### Katal
