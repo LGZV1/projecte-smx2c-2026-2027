@@ -28,7 +28,6 @@ Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta p�
   ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png) 
  Fet per: David i Neal
 
-
 ### Ro-Chess
 
 
