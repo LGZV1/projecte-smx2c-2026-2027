@@ -1,30 +1,17 @@
-# REPO test-smx2c
+# REPO projecte-smx2c-2026-2027
 
-Aquest repo conté una prova de repos a github.
+Llista de projectes d'SMX2C del curs 2026-2027.
 
-## Headers
+### Ferronetwork
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
 
-## Llista
+### Gymzero
 
-  * Això
-  * és
-  * una
-  * llista
-  * molt
-  * curta
 
-## Llista numerada
+### Retroarcade
 
-  1. Això
-  2. és 
-  3. una llista
-  4. numerada
-  5. que funciona
-  6. la mar de be
+
+### Ro-Chess
+
+
+### ????
