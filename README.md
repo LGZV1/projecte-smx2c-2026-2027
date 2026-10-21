@@ -121,14 +121,13 @@ Ja tinc dissenyada la base de dades nova. Les taules són:
 - Construir la màquina, els sensors i el lector RFID de veritat.
 - Instal·lar una xarxa real al gimnàs. La xarxa la dissenyaré, amb la topologia, però no la muntaré.
 
-### Retroarcade [RetroArcade] (https://github.com/TeteDeiVi/RetroArcade)
-
-# Projecte Retro Game Club (RetroArcade.cat)
+### [RetroArcade](https://github.com/TeteDeiVi/RetroArcade)
+#### Projecte Retro Game Club (RetroArcade.cat)
 - - - 
-## Que volem fer?
+#### Que volem fer?
 Volem crear un club de "Retro Gaming" on poder emular jocs antics, bloquejats i fer un club on la gent pugui pagar una subscripció perque puguin jugar a tots el jocs que estigui disponibles i proximament potser poder fer torneigos contra el usuaris, que els usuaris faguin una promoció del nostre projecte i que tinguin a canvi: (un mes de subscripció gratis...)
 ---
-### Que necessitem? (Abast)
+#### Que necessitem? (Abast)
   * Un software que ens permeteixi fer subscripcions per als clients (**berrly.com**)
   * Un software amb un docker que ens permeteixi pujar el nostres "ROMS" per emular els nostres jocs en una pagina web (**retroassembly.com**)
   * Un software per gestionar el club de "Retro Gaming" on podem veure els usuaris, que jugen més... (**sportmember.es**)
