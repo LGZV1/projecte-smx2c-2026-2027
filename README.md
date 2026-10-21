@@ -121,8 +121,7 @@ Ja tinc dissenyada la base de dades nova. Les taules són:
 - Construir la màquina, els sensors i el lector RFID de veritat.
 - Instal·lar una xarxa real al gimnàs. La xarxa la dissenyaré, amb la topologia, però no la muntaré.
 
-### Retroarcade 
-#### [RetroArcade] (https://github.com/TeteDeiVi/RetroArcade)
+### [RetroArcade] (https://github.com/TeteDeiVi/RetroArcade)
 #### Projecte Retro Game Club (RetroArcade.cat)
 - - - 
 #### Que volem fer?
