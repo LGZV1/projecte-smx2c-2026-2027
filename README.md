@@ -143,4 +143,28 @@ Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta p�
 ### Ro-Chess
 
 
-### Katal
+### [KATAL](https://github.com/ikeerrivass/KATAL)
+
+![Brand LOGO](KATAL.png) 
+Katal és una marca de roba catalana que s’ha actualitzat a la moda actual.
+Mostra una estètica futurista fosca però dirigida al públic català principalment, amb símbols com el llaç groc o la falç lligada amb l’himne català
+---
+
+##### COM ERA PRÈVIAMENT
+
+La botiga era vella i no estava adaptada a l’actualitat, venia roba de llana ja que no constaba ni amb electricitat ni amb la maquinària adequada, no hi havia seguretat per això mateix, era fàcil robar les prendes…
+
+##### QUE VOLEM IMPLEMENTAR PER MODERNITZAR LA MARCA
+
+  * Noves instal·lacions
+  * Nova pàgina web
+  * Nou logo
+  * Roba de diferents textures
+  * Nova maquinària avançada
+  * Càmeres de seguretat, alarmes a les prendes i detector d’alarmes a entrades i sortides de la botiga
+  * Electricitat
+  * BBDD
+  * Xarxa
+  * Enviament a domicili
+  * Serveis de enviament de material a l’empresa
+  * Unificar-ho en un ERP…
