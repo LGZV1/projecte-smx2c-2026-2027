@@ -2,6 +2,12 @@
 
 Llista de projectes d'SMX2C del curs 2026-2027.
 
+  - [FerroNetwork](#FerroNetwork), [ferronetwork.cat](https://ferronetwork.cat)
+  - [GymZero](#GymZero), [gymzero.cat](https://gymzero.cat)
+  - [RetroArcade](#RetroArcade), [retroarcade.cat](https://retroarcade.cat)
+  - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
+  - [Katal](#Katal), [katal.cat](https://katal.cat)
+
 ### Ferronetwork
 
 
@@ -123,7 +129,7 @@ Ja tinc dissenyada la base de dades nova. Les taules són:
 
 ### [RetroArcade](https://github.com/TeteDeiVi/RetroArcade)
 #### Projecte Retro Game Club (RetroArcade.cat)
-- - - 
+- - -
 #### Que volem fer?
 Volem crear un club de "Retro Gaming" on poder emular jocs antics, bloquejats i fer un club on la gent pugui pagar una subscripció perque puguin jugar a tots el jocs que estigui disponibles i proximament potser poder fer torneigos contra el usuaris, que els usuaris faguin una promoció del nostre projecte i que tinguin a canvi: (un mes de subscripció gratis...)
 ---
@@ -137,7 +143,7 @@ Volem crear un club de "Retro Gaming" on poder emular jocs antics, bloquejats i 
 #### Context
 Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta pàgina web perque tot el món que no pugui jugar a aquests jocs que no estan disponibles, puguin disfrutar com nosaltres aquesta diversió de jugar als seus jocs.
 ###### Disseny Projecte
-  ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png) 
+  ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png)
  Fet per: David i Neal
 
 ### Ro-Chess
@@ -145,7 +151,7 @@ Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta p�
 
 ### [KATAL](https://github.com/ikeerrivass/KATAL)
 
-![Brand LOGO](KATAL.png) 
+![Brand LOGO](KATAL.png)
 Katal és una marca de roba catalana que s’ha actualitzat a la moda actual.
 Mostra una estètica futurista fosca però dirigida al públic català principalment, amb símbols com el llaç groc o la falç lligada amb l’himne català
 ---
