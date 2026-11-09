@@ -146,8 +146,53 @@ Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta p�
   ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png)
  Fet per: David i Neal
 
-### Ro-Chess
+### Ro-Chess https://github.com/trec24/Ro-chess
 
+
+####Avasto del projecto
+
+Context
+
+1)
+
+a)Alguna vegada volies jugar als escacs i aquells microsegons no tan contat per el rendiment? docs el projecte es sobre el sistema d'escacs per web
+
+b)El projecte serveix per aconseguir una millor experiencia per als escacs
+Aquest projecte
+
+
+c)millora l'interfaz
+
+2)
+
+a) les millores son d'interfaz grafica i dona serveis com donarse de baixa
+
+
+b) El sistema funciona amb un software, dockers
+
+c) Cualsevol persona que sapiga entrar al lloc, per la rao de entreteniment o deport o per comparativa dels serveis e interficie grafica.
+
+3)
+
+a)
+
+(Organizacion) 
+Software para controlar a los usuarios comparado con la partida, elimina o añade los usuarios, el ajedrez sera controlado por Lichess que gestionara las reglas, el comportamiento de las piesas
+
+El software sera para dar de baja a los clientes o insertar usuarios
+El docker representara el usuario para la provacion de insercion e inicio de sesion
+
+
+
+
+
+
+
+
+
+
+Contexto
+Tenemos un ajedrez un club de ajedrez online, pero tenia una cierta cantidad de lag que me hacia perder 0,3 segundos por jugada haciendolo mas impresiso de lo normal
 
 ### [KATAL](https://github.com/ikeerrivass/KATAL)
 
@@ -174,3 +219,4 @@ La botiga era vella i no estava adaptada a l’actualitat, venia roba de llana j
   * Enviament a domicili
   * Serveis de enviament de material a l’empresa
   * Unificar-ho en un ERP…
+  
