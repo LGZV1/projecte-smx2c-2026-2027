@@ -194,8 +194,6 @@ El docker representara el usuario para la provacion de insercion e inicio de ses
 Contexto
 Tenemos un ajedrez un club de ajedrez online, pero tenia una cierta cantidad de lag que me hacia perder 0,3 segundos por jugada haciendolo mas impresiso de lo normal
 
-### Katal
-=======
 ### [KATAL](https://github.com/ikeerrivass/KATAL)
 
 ![Brand LOGO](KATAL.png)
