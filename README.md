@@ -197,6 +197,7 @@ Tenemos un ajedrez un club de ajedrez online, pero tenia una cierta cantidad de 
 ### [KATAL](https://github.com/ikeerrivass/KATAL)
 
 ![Brand LOGO](KATAL.png)
+---
 Katal és una marca de roba catalana que s’ha actualitzat a la moda actual.
 Mostra una estètica futurista fosca però dirigida al públic català principalment, amb símbols com el llaç groc o la falç lligada amb l’himne català
 ---
