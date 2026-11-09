@@ -2,6 +2,12 @@
 
 Llista de projectes d'SMX2C del curs 2026-2027.
 
+  - [FerroNetwork](#FerroNetwork), [ferronetwork.cat](https://ferronetwork.cat)
+  - [GymZero](#GymZero), [gymzero.cat](https://gymzero.cat)
+  - [RetroArcade](#RetroArcade), [retroarcade.cat](https://retroarcade.cat)
+  - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
+  - [Katal](#Katal), [katal.cat](https://katal.cat)
+
 ### Ferronetwork
 
 
@@ -121,14 +127,13 @@ Ja tinc dissenyada la base de dades nova. Les taules són:
 - Construir la màquina, els sensors i el lector RFID de veritat.
 - Instal·lar una xarxa real al gimnàs. La xarxa la dissenyaré, amb la topologia, però no la muntaré.
 
-### Retroarcade
-
-# Projecte Retro Game Club (RetroArcade.cat)
-- - - 
-## Que volem fer?
+### [RetroArcade](https://github.com/TeteDeiVi/RetroArcade)
+#### Projecte Retro Game Club (RetroArcade.cat)
+- - -
+#### Que volem fer?
 Volem crear un club de "Retro Gaming" on poder emular jocs antics, bloquejats i fer un club on la gent pugui pagar una subscripció perque puguin jugar a tots el jocs que estigui disponibles i proximament potser poder fer torneigos contra el usuaris, que els usuaris faguin una promoció del nostre projecte i que tinguin a canvi: (un mes de subscripció gratis...)
 ---
-### Que necessitem? (Abast)
+#### Que necessitem? (Abast)
   * Un software que ens permeteixi fer subscripcions per als clients (**berrly.com**)
   * Un software amb un docker que ens permeteixi pujar el nostres "ROMS" per emular els nostres jocs en una pagina web (**retroassembly.com**)
   * Un software per gestionar el club de "Retro Gaming" on podem veure els usuaris, que jugen més... (**sportmember.es**)
@@ -138,12 +143,10 @@ Volem crear un club de "Retro Gaming" on poder emular jocs antics, bloquejats i 
 #### Context
 Volíem jugar un joc pero estava bloquejat, per això hem decidit fer aquesta pàgina web perque tot el món que no pugui jugar a aquests jocs que no estan disponibles, puguin disfrutar com nosaltres aquesta diversió de jugar als seus jocs.
 ###### Disseny Projecte
-  ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png) 
+  ![Disseny Projecte](DissenyGraficProjecte.excalidraw.png)
  Fet per: David i Neal
 
 ### Ro-Chess https://github.com/trec24/Ro-chess
-
-
 
 
 ####Avasto del projecto
@@ -192,3 +195,30 @@ Contexto
 Tenemos un ajedrez un club de ajedrez online, pero tenia una cierta cantidad de lag que me hacia perder 0,3 segundos por jugada haciendolo mas impresiso de lo normal
 
 ### Katal
+=======
+### [KATAL](https://github.com/ikeerrivass/KATAL)
+
+![Brand LOGO](KATAL.png)
+Katal és una marca de roba catalana que s’ha actualitzat a la moda actual.
+Mostra una estètica futurista fosca però dirigida al públic català principalment, amb símbols com el llaç groc o la falç lligada amb l’himne català
+---
+
+##### COM ERA PRÈVIAMENT
+
+La botiga era vella i no estava adaptada a l’actualitat, venia roba de llana ja que no constaba ni amb electricitat ni amb la maquinària adequada, no hi havia seguretat per això mateix, era fàcil robar les prendes…
+
+##### QUE VOLEM IMPLEMENTAR PER MODERNITZAR LA MARCA
+
+  * Noves instal·lacions
+  * Nova pàgina web
+  * Nou logo
+  * Roba de diferents textures
+  * Nova maquinària avançada
+  * Càmeres de seguretat, alarmes a les prendes i detector d’alarmes a entrades i sortides de la botiga
+  * Electricitat
+  * BBDD
+  * Xarxa
+  * Enviament a domicili
+  * Serveis de enviament de material a l’empresa
+  * Unificar-ho en un ERP…
+  
