@@ -8,13 +8,17 @@ Llista de projectes d'SMX2C del curs 2026-2027.
   - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
   - [Katal](#Katal), [katal.cat](https://katal.cat)
 
-### FerroNetwork
+### FerroNetwork(https://github.com/LGZV1/projecte-smx2c-2026-2027/tree/Lucas-Y-Santi)
 
 Santi Osella y Lucas Gagliano · SMX2 · INS Palamós
 ![Ferronetwork](image.png)
 
-FerroNetwork es una compañia de servicios (ya escogeremos de que) con una Intraned en la cual se basa este proyecto, la gracia del proyecto sera hacer dos servidores que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especializados desde un sitio permitido por la FerroNetwork.
+FerroNetwork es una compañia a gran escala que que se encarga de el servicios de seguridad y ciberseguridad centrado en el ambito tecnologico y fisico de la seguridad, para demostarr como funciona la compañia les mostarremos como funciona internamente FerroNetwork
 
+El sistema que implementamos se llama "eye hunter" es un conjunto de normas junto a medidas de seguridad para evitar muchos problemas de brechas de seguridad (fisicas/digitale) o filtraciones de informacion relevante aparte de garantizar algunas medidas de defensa fisicas tecnologicas avanzadas conectadas con la red. Este sistema cumple los requisitos necesarios para dar una mayor seguridad a tus distritos y a tu red empresarial. 
+
+Por el lado digital lo principal que tenemos para la empresa es una Intraned que da a servidores la posibilidad de que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especificos desde un sitio permitido por su empresa ya sea: paises, pueblos ciudades o zonas más concretamente distritos o edificios.
+-------------------------------------------------------------- Borrar 
 En la intraned de FerroNetwork se permitira que los usaurios dentro de ella puedan usar varias herramientas para poder trabajar entre ellos sin tener que acceder a drive, gmail o plataformas externas donde se pueda filtrar informacion o que otras compañias puedan verla y copiarla 
 
 Todo lo que abarca:
@@ -30,6 +34,7 @@ Cifrado con codifo SALT para evitar que los datos que sean robados sean entendib
 Tambien un lugar agradable para trabajar de forma compartida con los otros trabajadores online gracias a herramientas de trabajo online usaremos atlassian.
 
 Tendremos tambien una pagina para alguna posible solicitud o venta de algo.
+-------------------------------------------------------------- Borrar 
 ### Gymzero
 
 Jan Palahí · SMX2 · INS Palamós
