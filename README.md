@@ -18,23 +18,25 @@ FerroNetwork es una compañia a gran escala que que se encarga de el servicios d
 El sistema que implementamos se llama "eye hunter" es un conjunto de normas junto a medidas de seguridad para evitar muchos problemas de brechas de seguridad (fisicas/digitale) o filtraciones de informacion relevante aparte de garantizar algunas medidas de defensa fisicas tecnologicas avanzadas conectadas con la red. Este sistema cumple los requisitos necesarios para dar una mayor seguridad a tus distritos y a tu red empresarial. 
 
 Por el lado digital lo principal que tenemos para la empresa es una Intraned que da a servidores la posibilidad de que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especificos desde un sitio permitido por su empresa ya sea: paises, pueblos ciudades o zonas más concretamente distritos o edificios.
--------------------------------------------------------------- Borrar 
-En la intraned de FerroNetwork se permitira que los usaurios dentro de ella puedan usar varias herramientas para poder trabajar entre ellos sin tener que acceder a drive, gmail o plataformas externas donde se pueda filtrar informacion o que otras compañias puedan verla y copiarla 
 
-Todo lo que abarca:
+Cosas que no incluye el proyecto, la forma de trabajo de los trabajadores no es parte de nuestra responsabilidad como empresa ya que nosotros nos encargamos de proteger y asegurar la informacacion aparte brindando algunas herramientas pero no optimizamos la forma de trabajar de la gente ni el orden de los trabajadores o en cambio si la empresa necesita ayuda por cualquier tema de seguridad o que necesiten una explicacion para los trabajadores podremos ofrecer un pequeño curso y aparte os pdf de instrucciones
 
-Una Intraned entre servidores.
+en principio lo no habria nada posteriro y en otras empresas depende de la forma de trabajar ya podriamos adaptar el "eye hunter"
 
-VPN's de varios luagres para mayor seguirdad (Proton).
+Cosas que abarca el proyecto de forma seccionada:
 
-Cortafuegos para evitar el robo de dato (Huntress).
+1 Una Intraned entre servidores.
 
-Cifrado con codifo SALT para evitar que los datos que sean robados sean entendibles.
+2 VPN's de varios luagres para mayor seguirdad (Proton).
 
-Tambien un lugar agradable para trabajar de forma compartida con los otros trabajadores online gracias a herramientas de trabajo online usaremos atlassian.
+3 Cortafuegos para evitar el robo de dato (Huntress).
 
-Tendremos tambien una pagina para alguna posible solicitud o venta de algo.
--------------------------------------------------------------- Borrar 
+4 Cifrado con codifo SALT para evitar que los datos que sean robados sean entendibles.
+
+5 Tambien un lugar agradable para trabajar de forma compartida con los otros trabajadores online gracias a herramientas de trabajo online usaremos atlassian.
+
+6 Tendremos tambien una pagina para alguna posible solicitud o venta de algo.
+
 ### Gymzero
 
 Jan Palahí · SMX2 · INS Palamós
