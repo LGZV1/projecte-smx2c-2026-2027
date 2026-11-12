@@ -8,10 +8,10 @@ Llista de projectes d'SMX2C del curs 2026-2027.
   - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
   - [Katal](#Katal), [katal.cat](https://katal.cat)
 
-### FerroNetwork(https://github.com/LGZV1/projecte-smx2c-2026-2027/tree/Lucas-Y-Santi)
+### [FerroNetwork](https://github.com/LGZV1/projecte-smx2c-2026-2027/tree/Lucas-Y-Santi)
 
 Santi Osella y Lucas Gagliano · SMX2 · INS Palamós
-![Ferronetwork](image.png)
+![Ferronetwork](image.png) 
 
 FerroNetwork es una compañia a gran escala que que se encarga de el servicios de seguridad y ciberseguridad centrado en el ambito tecnologico y fisico de la seguridad, para demostarr como funciona la compañia les mostarremos como funciona internamente FerroNetwork
 
