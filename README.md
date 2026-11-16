@@ -13,16 +13,16 @@ Llista de projectes d'SMX2C del curs 2026-2027.
 Santi Osella y Lucas Gagliano · SMX2 · INS Palamós
 ![Ferronetwork](image.png) 
 
-#### 1. De què va el projecte
-FerroNetwork es una compañia a gran escala que que se encarga de el servicios de seguridad y ciberseguridad centrado en el ambito tecnologico y fisico de la seguridad, para demostarr como funciona la compañia les mostarremos como funciona internamente FerroNetwork
+### 1. Que va el projecte
+FerroNetwork és una companyia a gran escala que que s'encarrega del serveis de seguretat i ciberseguretat centrat en l'àmbit tecnològic i físic de la seguretat, per a demostrar com funciona la companyia els mostrarem com funciona internament FerroNetwork
 
-El sistema que implementamos se llama "eye hunter" es un conjunto de normas junto a medidas de seguridad para evitar muchos problemas de brechas de seguridad (fisicas/digitale) o filtraciones de informacion relevante aparte de garantizar algunas medidas de defensa fisicas tecnologicas avanzadas conectadas con la red. Este sistema cumple los requisitos necesarios para dar una mayor seguridad a tus distritos y a tu red empresarial. 
+El sistema que implementem es diu "eye hunter" és un conjunt de normes al costat de mesures de seguretat per a evitar molts problemes de bretxes de seguretat (físiques/digítale) o filtracions d'informació rellevant a part de garantir algunes mesures de defensa físiques tecnològiques avançades connectades amb la xarxa. Aquest sistema compleix els requisits necessaris per a donar una major seguretat als teus districtes i a la teva xarxa empresarial.
 
-Por el lado digital lo principal que tenemos para la empresa es una Intraned que da a servidores la posibilidad de que puedan compartir informacion entre ellos y que solo se puedan conectar usuarios especificos desde un sitio permitido por su empresa ya sea: paises, pueblos ciudades o zonas más concretamente distritos o edificios.
+Pel costat digital el principal que tenim per a l'empresa és una Intranet que dona a servidors la possibilitat que puguin compartir informació entre ells i que només es puguin connectar usuaris específics des d'un lloc permès per la seva empresa ja sigui: països, pobles ciutats o zones més concretament districtes o edificis.
 
-Cosas que no incluye el proyecto, la forma de trabajo de los trabajadores no es parte de nuestra responsabilidad como empresa ya que nosotros nos encargamos de proteger y asegurar la informacacion aparte brindando algunas herramientas pero no optimizamos la forma de trabajar de la gente ni el orden de los trabajadores o en cambio si la empresa necesita ayuda por cualquier tema de seguridad o que necesiten una explicacion para los trabajadores podremos ofrecer un pequeño curso y aparte os pdf de instrucciones
+Coses que no inclou el projecte, la forma de treball dels treballadors no és part de la nostra responsabilitat com a empresa ja que nosaltres ens encarreguem de protegir i assegurar la informació a part brindant algunes eines però no optimitzem la manera de treballar de la gent ni l'ordre dels treballadors o en canvi si l'empresa necessita ajuda per qualsevol tema de seguretat o que necessitin una explicació per als treballadors podrem oferir un petit curs i a part d'uns pdf d'instruccions
 
-en principio lo no habria nada posteriro y en otras empresas depende de la forma de trabajar ya podriamos adaptar el "eye hunter"
+en principi el no hi hauria res posterior i en altres empreses depèn de la manera de treballar ja podríem adaptar el "eye hunter"
 
 ### Gymzero
 
