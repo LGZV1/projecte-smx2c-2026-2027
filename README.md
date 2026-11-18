@@ -8,7 +8,7 @@ Llista de projectes d'SMX2C del curs 2026-2027.
   - [Ro-Chess](#Ro-Chess), [ro-chess.cat](https://ro-chess.cat)
   - [Katal](#Katal), [katal.cat](https://katal.cat)
 
-### [FerroNetwork](https://github.com/LGZV1/projecte-smx2c-2026-2027/tree/Lucas-Y-Santi)
+### [FerroNetwork](https://github.com/LGZV1/projecte-smx2c-2026-2027.git)
 
 Santi Osella y Lucas Gagliano · SMX2 · INS Palamós
 ![Ferronetwork](image.png) 
